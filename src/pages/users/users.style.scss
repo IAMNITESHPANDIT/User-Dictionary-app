@@ -1,0 +1,39 @@
+.user-card {
+  
+  $black-color: black;
+  
+  $background-color: rgb(211, 225, 241);
+
+  .card {
+    margin: 25px;
+    border: 1px solid $black-color;
+    border-radius: 0.5rem;
+    background: $background-color;
+  }
+
+  .title {
+    text-align: center;
+    margin: 50px;
+  }
+
+  .list {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .card {
+    margin: 25px;
+  }
+
+  .card:hover {
+    cursor: pointer;
+  }
+
+  .link {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    color: $black-color;
+    padding: 15px !important;
+  }
+}
