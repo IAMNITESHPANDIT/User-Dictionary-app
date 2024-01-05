@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 
     ```bash
     git clone https://github.com/IAMNITESHPANDIT/User-Dictionary-app.git 
-    cd your-project
+    cd User-Dictionary-app
     ```
 
 2. **Install Dependencies:**
