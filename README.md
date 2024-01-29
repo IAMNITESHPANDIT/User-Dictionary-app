@@ -1,4 +1,4 @@
-# user-assignment-app --@iamniteshpandit
+# Social-Digital-Clock --@iamniteshpandit
 
 ## Description
 
